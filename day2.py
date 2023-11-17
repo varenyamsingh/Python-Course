@@ -12,7 +12,6 @@ print("hey", 6, 7, sep="-", end="009")#sep is used to seperate many words from s
 '''and we can write \n in the end after giving value to it then our next output will come on the next line'''
 print("Hey")
 
-
 """
 
 #Now Variables and Data Types in python
