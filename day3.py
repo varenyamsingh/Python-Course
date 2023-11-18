@@ -1,6 +1,7 @@
 #In this file code for calculator is written.
 a = 50
 b = 10
+
 #code to find the addition between two numbers
 c = a + b
 print("sum of two numbers:", c)
