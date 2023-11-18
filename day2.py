@@ -13,7 +13,6 @@ print("hey", 6, 7, sep="-", end="009")#sep is used to seperate many words from s
 print("Hey")
 
 """
-
 #Now Variables and Data Types in python
 a = 123456 #int data type
 b = "Tony" #string data type always written in quotes
