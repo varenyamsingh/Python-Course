@@ -6,5 +6,4 @@ elif(x < 15):
     print("You are not adult")
 else:
     print("Invalid input")
-    #we have done till here
-    #we have done till here.
+#we have done till here
