@@ -51,7 +51,7 @@ print(str3.isspace())#tells us whether we have used wide spaces or not
 str3 = "Welcome"
 print(str3.istitle())
 str3 = "Welcome here we come"
-print(str3.istitle())#tells us whethe all the words in our string is starting from capital or not
+print(str3.istitle())#tells us whether all the words in our string is starting from capital or not
 
 str3 = "Welcome here we come"
 print(str3.startswith("Welcome"))
@@ -60,5 +60,7 @@ print(str3.startswith("Hello"))#tells whether the string starts with the given w
 str3 = "Welcome here we come"
 print(str3.swapcase())#converts lowercase to uppercase and vice-versa
 
-str3 = "Welcome here we come"
+str3 = "Welcome here we come "
 print(str3.title())#makes all the starting words capital
+print(str3[::-1])#this reverses the string
+print(str3.join("Hello "))#this joins the given string with the string which we have given in input
