@@ -13,7 +13,7 @@ print(len(arr)) #length of array
 for i in arr: # in this we get values directly
     print(i)
 
-#Method 2: Using Using indexes
+#Method 2: Using indexes
 arr1 = [11, 12, 13, 14, 15]  # in this we get indexes then values
 for i in range(len(arr1)):
     print(arr1[i])
