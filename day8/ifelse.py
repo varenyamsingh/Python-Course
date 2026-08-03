@@ -6,5 +6,3 @@ elif(x <= 17):
     print("You are not an adult")
 else:
     print("Invalid input")
-
-#we have done till here
