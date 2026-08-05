@@ -66,7 +66,7 @@ arr = [10, 20, 30, 40, 50]
 # arr[::-1]
 # print(arr)
 
-# Use two pointers.
+# Use two pointers preferred for interviews.
 left = 0
 right = len(arr) - 1
 
